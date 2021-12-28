@@ -1,0 +1,1 @@
+xmldocmd .\src\bin\Debug\netstandard2.1\Microsoft.IO.RecyclableMemoryStream.dll .\docs --obsolete --clean
